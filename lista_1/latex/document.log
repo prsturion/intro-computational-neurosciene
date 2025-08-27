@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.3)  26 AUG 2025 17:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.3)  27 AUG 2025 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,6 +498,7 @@ File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4064.
 Package hyperref Info: Hyper figures OFF on input line 4181.
 Package hyperref Info: Link nesting OFF on input line 4186.
 Package hyperref Info: Hyper index ON on input line 4189.
@@ -529,7 +530,7 @@ Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
 Package hyperref Info: backreferencing OFF on input line 6080.
-Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring ON on input line 6083.
 Package hyperref Info: Link coloring with OCG OFF on input line 6090.
 Package hyperref Info: PDF/A mode OFF on input line 6095.
 
@@ -644,53 +645,48 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 18.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 18.
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring ON on input line 18.
  (document.out) (document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
 
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 22.
+ 28.
 
 (C:\Users\prstu\AppData\Local\Programs\MiKTeX\tex/latex/fourier\fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 22.
+(Font)              scaled to size 11.03998pt on input line 28.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 22.
+(Font)              scaled to size 8.27998pt on input line 28.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 22.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+(Font)              scaled to size 6.43999pt on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
 
 (C:\Users\prstu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 
 
 (C:\Users\prstu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 22.
+(Font)              scaled to size 11.03998pt on input line 28.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 22.
+(Font)              scaled to size 8.27998pt on input line 28.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 22.
+(Font)              scaled to size 6.43999pt on input line 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 27--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 27--38
 
  []
 
@@ -698,118 +694,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
 {C:/Users/prstu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/prst
 u/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-<../ex_2.png, id=13, 462.528pt x 346.896pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+<../ex_2.png, id=14, 462.528pt x 346.896pt>
 File: ../ex_2.png Graphic file (type png)
 <use ../ex_2.png>
-Package pdftex.def Info: ../ex_2.png  used on input line 55.
+Package pdftex.def Info: ../ex_2.png  used on input line 61.
 (pdftex.def)             Requested size: 341.43306pt x 256.08499pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-[2 <../ex_2.png>]
-<../ex_3.png, id=22, 462.528pt x 346.896pt>
+<../ex_3.png, id=21, 462.528pt x 346.896pt>
 File: ../ex_3.png Graphic file (type png)
 <use ../ex_3.png>
-Package pdftex.def Info: ../ex_3.png  used on input line 66.
+Package pdftex.def Info: ../ex_3.png  used on input line 72.
 (pdftex.def)             Requested size: 341.43306pt x 256.08499pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[3 <../ex_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
-[3 <../ex_3.png>]
-<../ex_4.png, id=29, 462.528pt x 346.896pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+[4 <../ex_3.png>]
+<../ex_4.png, id=34, 462.528pt x 346.896pt>
 File: ../ex_4.png Graphic file (type png)
 <use ../ex_4.png>
-Package pdftex.def Info: ../ex_4.png  used on input line 80.
+Package pdftex.def Info: ../ex_4.png  used on input line 86.
 (pdftex.def)             Requested size: 341.43306pt x 256.08499pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
-[4 <../ex_4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+[5 <../ex_4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
-<../ex_5.png, id=41, 1084.05pt x 433.62pt>
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+<../ex_5.png, id=46, 1084.05pt x 433.62pt>
 File: ../ex_5.png Graphic file (type png)
 <use ../ex_5.png>
-Package pdftex.def Info: ../ex_5.png  used on input line 145.
+Package pdftex.def Info: ../ex_5.png  used on input line 151.
 (pdftex.def)             Requested size: 569.05511pt x 227.62744pt.
 
-Overfull \hbox (81.35448pt too wide) in paragraph at lines 144--146
+Overfull \hbox (81.35448pt too wide) in paragraph at lines 150--152
  []|  [] 
  []
 
-[6] [7 <../ex_5.png>] [8] (document.aux)
+[7] [8 <../ex_5.png>] [9] (document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -818,13 +818,13 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13117 strings out of 474485
- 209180 string characters out of 5743735
- 1939542 words of memory out of 5000000
- 35151 multiletter control sequences out of 15000+600000
+ 13121 strings out of 474485
+ 209433 string characters out of 5743735
+ 1935542 words of memory out of 5000000
+ 35154 multiletter control sequences out of 15000+600000
  601177 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,79p,1344b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,12n,79p,1344b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/prstu/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/four
 ier-mex.pfb><C:/Users/prstu/AppData/Local/Programs/MiKTeX/fonts/type1/public/fo
 urier/fourier-ml.pfb><C:/Users/prstu/AppData/Local/Programs/MiKTeX/fonts/type1/
@@ -833,9 +833,9 @@ onts/type1/public/fourier/fourier-ms.pfb><C:/Users/prstu/AppData/Local/Programs
 /MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/prstu/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/prstu/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on document.pdf (8 pages, 235577 bytes).
+Output written on document.pdf (9 pages, 236966 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
